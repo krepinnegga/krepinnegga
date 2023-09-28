@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a Mcommerce Native App**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Dart and Flutter**
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/krepinnegga/krepinnegga/issues)**
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything JavaScript [here](https://github.com/krepinnegga/krepinnegga/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **I am an all out Js Dev open to learn and collaborate**
  
  </div>
  
