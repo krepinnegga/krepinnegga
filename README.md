@@ -48,9 +48,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krepinnegga&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krepinnegga&theme=algolia&hide_border=true" alt="krepinnegga" />
-</div>
 
 ---
 
