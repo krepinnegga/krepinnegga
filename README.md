@@ -1,76 +1,73 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=krepinnegga.krepinnegga" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Derrick+Israel;Full-Stack+Developer;Mobile+App+Specialist;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD" alt="Typing SVG" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Derrick+Israel!;" />
-</h1>
+<h3 align="center">Building cross-platform solutions with JavaScript ecosystem</h3>
 
-<h3 align="center">A passionate software Developer from Ghana 🇬🇭</h3>
+---
 
-<br/>
+### 🛠️ Tech Stack
+
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+**Architecture:**  
+![Monorepo](https://img.shields.io/badge/-Monorepo-8DD6F9?logo=pnpm&logoColor=black&style=flat)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
- 
- 🔭 I’m currently working on **a M-commerce Native App**
- 
- 🌱 I’m currently learning **Dart and Flutter**
-
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything JavaScript [here](https://github.com/krepinnegga/krepinnegga/issues)**
-
- ⚡ Fun fact **I am an all out Js Dev open to learn and collaborate**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:kobbyisreal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/derrick-israel-87716924b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://instagram.com/krepin_negga?igshid" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://krepinnegga.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krepinnegga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krepinnegga&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,dotnet,javascript,express,firebase,mongodb,cpp,java,redux,visualstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,dart,flutter,postman,vscode,tailwind,typescript" />
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/krepinnegga/krepinnegga/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krepinnegga&theme=algolia&hide_border=true" alt="krepinnegga" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=krepinnegga&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=krepinnegga&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krepinnegga&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+### 🌱 Currently Learning
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/derrick-israel-87716924b)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kobbyisreal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://krepinnegga.github.io)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krepinnegga&label=Profile%20views&color=0e75b6&style=flat" alt="krepinnegga" />
 </div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
