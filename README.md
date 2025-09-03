@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5C6BC0&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Derrick+Israel;Full-Stack+Developer;Mobile+App+Specialist;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Building cross-platform solutions with JavaScript ecosystem</h3>
+<h3 align="center">Building cross-platform solutions with JavaScript| TypeScript  ecosystem</h3>
 
 ---
 
